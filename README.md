@@ -1,3 +1,6 @@
+# Link zum Repository: https://github.com/c2010475020/NewsreaderStarterExercise4.git
+
+
 # NewsreaderStarterExercise4
 
 ## Important!
